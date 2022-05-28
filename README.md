@@ -12,5 +12,5 @@ A LOAD bool változót szeteld True-ra.
 - collections.deque
 
 ## Credits
-Orbázi Tibor (ottmar.adam2000@edu.bme.hu) <br>
-Ottmár Ádám (orbazi.tibor@edu.bme.hu)
+Orbázi Tibor (orbazi.tibor@edu.bme.hu) <br>
+Ottmár Ádám (ottmar.adam2000@edu.bme.hu)
